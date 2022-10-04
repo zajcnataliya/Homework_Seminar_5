@@ -1,0 +1,15 @@
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\obj\Debug\net6.0\dz_tasks_seminar5.csproj.AssemblyReference.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\obj\Debug\net6.0\dz_tasks_seminar5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\obj\Debug\net6.0\dz_tasks_seminar5.AssemblyInfoInputs.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\obj\Debug\net6.0\dz_tasks_seminar5.AssemblyInfo.cs
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\obj\Debug\net6.0\dz_tasks_seminar5.csproj.CoreCompileInputs.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\bin\Debug\net6.0\dz_tasks_seminar5.exe
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\bin\Debug\net6.0\dz_tasks_seminar5.deps.json
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\bin\Debug\net6.0\dz_tasks_seminar5.runtimeconfig.json
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\bin\Debug\net6.0\dz_tasks_seminar5.dll
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\bin\Debug\net6.0\dz_tasks_seminar5.pdb
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\obj\Debug\net6.0\dz_tasks_seminar5.dll
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\obj\Debug\net6.0\refint\dz_tasks_seminar5.dll
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\obj\Debug\net6.0\dz_tasks_seminar5.pdb
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\obj\Debug\net6.0\dz_tasks_seminar5.genruntimeconfig.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_5\dz_tasks_seminar5\obj\Debug\net6.0\ref\dz_tasks_seminar5.dll
